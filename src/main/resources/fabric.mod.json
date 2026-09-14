@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "accountswitcher",
+  "version": "${version}",
+  "name": "Cyan Acc Manager",
+  "description": "Cyan Acc Manager - Premium Cyan-themed Minecraft account switcher powered by CyanAFK.",
+  "authors": [
+    "Mustafa"
+  ],
+  "contact": {
+    "sources": "https://github.com/mustafa/account-switcher"
+  },
+  "license": "MIT",
+  "icon": "assets/accountswitcher/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.mustafa.accountswitcher.AccountSwitcherMod"
+    ]
+  },
+  "mixins": [
+    "accountswitcher.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": ">=1.21.10 <=1.21.11",
+    "java": ">=21"
+  }
+}

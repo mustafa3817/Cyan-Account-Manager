@@ -1,0 +1,18 @@
+{
+  "accountswitcher.button.accounts": "Hesaplar",
+  "accountswitcher.title": "§b§lCyan Acc Manager",
+  "accountswitcher.active": "Aktif Hesap",
+  "accountswitcher.login": "Giriş Yap",
+  "accountswitcher.add.microsoft": "MS Girişi",
+  "accountswitcher.add.token": "Token Ekle",
+  "accountswitcher.delete": "Sil",
+  "accountswitcher.refresh": "Yenile",
+  "accountswitcher.import": "İçe Aktar",
+  "accountswitcher.export": "Dışa Aktar",
+  "accountswitcher.validate_all": "Tümünü Kontrol Et",
+  "accountswitcher.cancel": "İptal",
+  "accountswitcher.done": "Kapat",
+  "accountswitcher.token.title": "Access & Refresh Token ile Giriş",
+  "accountswitcher.ms.title": "Microsoft Girişi (Device Code)",
+  "accountswitcher.ms.copy_and_open": "Kopyala & Tarayıcıyı Aç"
+}

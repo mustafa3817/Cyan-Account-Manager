@@ -1,0 +1,18 @@
+{
+  "accountswitcher.button.accounts": "Accounts",
+  "accountswitcher.title": "§b§lCyan Acc Manager",
+  "accountswitcher.active": "Active Account",
+  "accountswitcher.login": "Log In",
+  "accountswitcher.add.microsoft": "MS Login",
+  "accountswitcher.add.token": "Add Token",
+  "accountswitcher.delete": "Delete",
+  "accountswitcher.refresh": "Refresh",
+  "accountswitcher.import": "Import",
+  "accountswitcher.export": "Export",
+  "accountswitcher.validate_all": "Check All",
+  "accountswitcher.cancel": "Cancel",
+  "accountswitcher.done": "Close",
+  "accountswitcher.token.title": "Add via Access & Refresh Token",
+  "accountswitcher.ms.title": "Microsoft Login (Device Code)",
+  "accountswitcher.ms.copy_and_open": "Copy Code & Open Browser"
+}

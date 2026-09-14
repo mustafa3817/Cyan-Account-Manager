@@ -1,0 +1,28 @@
+﻿# Gradle & Build Out
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Local JDK
+.jdk/
+
+# Loom & Minecraft Decompilation
+.loom-cache/
+run/
+logs/
+
+# IDE & Editor Files
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.settings/
+.project
+.classpath
+
+# OS & Temp Files
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
